@@ -1,2 +1,3 @@
 # 100-Days-Python
- Here I will be commiting project that I will be building by learning Python in 100 days.
+This is a classic Snake Game reminiscent of our cherished childhood days, a game we used to enjoy on our beloved NOKIA 3310.
+To Start the game just clone the Module and then run the main class.
